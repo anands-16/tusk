@@ -1,3 +1,5 @@
 welcome to fruit shop
 orange
 apple
+grape
+banana
